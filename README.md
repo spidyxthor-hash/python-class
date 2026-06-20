@@ -1,1 +1,1 @@
-# python-class
+print("hello world")
